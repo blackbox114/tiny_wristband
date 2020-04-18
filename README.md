@@ -34,17 +34,17 @@ Digispark（不带usbPad版本）*1
 
 ### 制作过程
 准备材料
-![image](https://github.com/blackbox114/tiny_wristband/blob/master/img/1.png)
+![image](https://github.com/blackbox114/tiny_wristband/blob/master/img/1.jpg)
 
 焊接导线
-![image](https://github.com/blackbox114/tiny_wristband/blob/master/img/2.png)
+![image](https://github.com/blackbox114/tiny_wristband/blob/master/img/2.jpg)
 
 组装电路部分
-![image](https://github.com/blackbox114/tiny_wristband/blob/master/img/3.png)
-![image](https://github.com/blackbox114/tiny_wristband/blob/master/img/4.png)
-![image](https://github.com/blackbox114/tiny_wristband/blob/master/img/5.png)
+![image](https://github.com/blackbox114/tiny_wristband/blob/master/img/3.jpg)
+![image](https://github.com/blackbox114/tiny_wristband/blob/master/img/4.jpg)
+![image](https://github.com/blackbox114/tiny_wristband/blob/master/img/5.jpg)
 
 3D打印外壳
-![image](https://github.com/blackbox114/tiny_wristband/blob/master/img/6.png)
+![image](https://github.com/blackbox114/tiny_wristband/blob/master/img/6.jpg)
 
 那会还不会建模，做出来的打印件丑爆了【悲怆】
