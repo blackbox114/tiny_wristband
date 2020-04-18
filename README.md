@@ -30,7 +30,11 @@ Digispark（不带usbPad版本）*1
   gnd==>GND
   
 #### 图中元件图示型号有误，仅展示接线图，元件请参考物料清单
-![image](https://github.com/blackbox114/tiny_wristband/blob/master/img/0.png)
+
+<div align="center">
+	<img src="https://github.com/blackbox114/tiny_wristband/blob/master/img/0.png" alt="Editor" width="500">
+</div>
+
 
 ### 制作过程
 准备材料
