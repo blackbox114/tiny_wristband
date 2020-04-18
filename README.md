@@ -20,11 +20,17 @@ Digispark（不带usbPad版本）*1
 
 ### 接线图
   trig==>P2
+  
   echo==>P3
+  
   震动电机==>P1
+  
   vcc==>VCC
+  
   gnd==>GND
+  
 #### 图中元件图示型号有误，仅展示接线图，元件请参考物料清单
+![image](https://github.com/blackbox114/tiny_wristband/blob/master/img/0.png)
 
 
 
