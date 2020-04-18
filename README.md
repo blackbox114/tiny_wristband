@@ -48,8 +48,3 @@ Digispark（不带usbPad版本）*1
 ![image](https://github.com/blackbox114/tiny_wristband/blob/master/img/6.png)
 
 那会还不会建模，做出来的打印件丑爆了【悲怆】
-
-
-
-
-
