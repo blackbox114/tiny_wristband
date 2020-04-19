@@ -36,7 +36,7 @@ Digispark（不带usbPad版本）*1
   
 #### 图中元件图示型号有误，仅展示接线图，元件请参考物料清单
 <div align="center">
-	<img src="https://github.com/blackbox114/tiny_wristband/blob/master/img/0.png" alt="Editor" width="500">
+	<img src="/img/0.png" alt="Editor" width="500">
 </div>
 
 
@@ -48,20 +48,20 @@ Digispark（不带usbPad版本）*1
 
 焊接导线
 <div align="center">
-	<img src="https://github.com/blackbox114/tiny_wristband/blob/master/img/2.jpg" alt="Editor" width="500">
+	<img src="/img/2.jpg" alt="Editor" width="500">
 </div>
 
 组装电路部分
 <div align="center">
-	<img src="https://github.com/blackbox114/tiny_wristband/blob/master/img/3.jpg" alt="Editor" width="500">
+	<img src="/img/3.jpg" alt="Editor" width="500">
 </div><div align="center">
-	<img src="https://github.com/blackbox114/tiny_wristband/blob/master/img/4.jpg" alt="Editor" width="500">
+	<img src="/img/4.jpg" alt="Editor" width="500">
 </div><div align="center">
-	<img src="https://github.com/blackbox114/tiny_wristband/blob/master/img/5.jpg" alt="Editor" width="500">
+	<img src="/img/5.jpg" alt="Editor" width="500">
 </div>
 3D打印外壳
 <div align="center">
-	<img src="https://github.com/blackbox114/tiny_wristband/blob/master/img/6.jpg" alt="Editor" width="500">
+	<img src="/img/6.jpg" alt="Editor" width="500">
 </div>
 
 那会还不会建模，做出来的打印件丑爆了【悲怆】
