@@ -43,7 +43,7 @@ Digispark（不带usbPad版本）*1
 ### 制作过程
 准备材料
 <div align="center">
-	<img src="https://github.com/blackbox114/tiny_wristband/blob/master/img/1.jpg" alt="Editor" width="500">
+	<img src="/img/1.jpg" alt="Editor" width="500">
 </div>
 
 焊接导线
